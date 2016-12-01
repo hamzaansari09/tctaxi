@@ -3,8 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-     				"appID": "QFMJNHRX38.com.thoughtchimp.Taxi",
-				"paths": [ "/audrino.html","/raspberrypi.html","/beaglebone.html"]
+     			"appID": "QFMJNHRX38.com.thoughtchimp.Taxi",
+				"paths": [ "/pages/*"]
 			}
 		]
 	}
